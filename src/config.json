@@ -1,0 +1,69 @@
+{
+    "bot": {
+        "token": "ODUzMDA1MjAxMzAwMzg5OTE4.YMPFAA.hEIbUVW756miqEAAm29p8NGMC9A",
+        "prefixo": "!"
+    },
+    "ids": {
+        "categories": {
+            "ticket": "854173975029350423"
+        },
+        "cargos": {
+            "tickets": ["854174308150280203"]
+        },
+        "channels": {
+            "logs": "865284256761774150"
+        }
+    },
+    "ticket": {
+        "tipos": [
+            {
+                "nome": "Orçamentos",
+                "id": "orcamentos",
+                "emoji": "💸",
+                "canalName": "Orçamentos-",
+                "descricao": "Realizar um orçamento"
+            },
+            {
+                "nome": "Financeiro",
+                "id": "financeiro",
+                "emoji": "💰",
+                "canalName": "Financeiro-",
+                "descricao": "Suporte Financeiro em relação a host"
+            },
+            {
+                "nome": "Duvidas",
+                "id": "duvidas",
+                "emoji": "📨",
+                "canalName": "Duvidas-",
+                "descricao": "Duvidas sobre a host"
+            },
+            {
+                "nome": "Suporte Técnico",
+                "id": "suporte_tecnico",
+                "emoji": "🔧",
+                "canalName": "Técnico-",
+                "descricao": "Suporte técnico em relação a host"
+            },
+            {
+                "nome": "Beneficios",
+                "id": "beneficios",
+                "emoji": "💜",
+                "canalName": "Beneficios-",
+                "descricao": "Beneficios por compra"
+            }
+            
+        ],
+        "embed": {
+            "image": "https://images-ext-2.discordapp.net/external/LbHjArJsSDI-6JSGtlpRanGLY6PSUEv50L0UpAIxx4A/https/i.imgur.com/cX8Czip.png",
+            "cor": "#ff00ff",
+            "hostName": "HostSquare",
+            "site": "nenhum",
+            "instagram": "nenhum",
+            "tutoriais": "nenhum",
+            "horario": {
+                "title": "**Horário de atendimento:**",
+                "fim": "⏲️ ``08:00 as 19:00 (UTC-3)``"
+            }
+        }
+    }
+}
